@@ -1,0 +1,17 @@
+C:\Users\notal\OneDrive\Рабочий стол\Exz_PM1\src\Ekz\Ekz\bin\Debug\net6.0-windows\Ekz.exe
+C:\Users\notal\OneDrive\Рабочий стол\Exz_PM1\src\Ekz\Ekz\bin\Debug\net6.0-windows\Ekz.deps.json
+C:\Users\notal\OneDrive\Рабочий стол\Exz_PM1\src\Ekz\Ekz\bin\Debug\net6.0-windows\Ekz.runtimeconfig.json
+C:\Users\notal\OneDrive\Рабочий стол\Exz_PM1\src\Ekz\Ekz\bin\Debug\net6.0-windows\Ekz.dll
+C:\Users\notal\OneDrive\Рабочий стол\Exz_PM1\src\Ekz\Ekz\bin\Debug\net6.0-windows\Ekz.pdb
+C:\Users\notal\OneDrive\Рабочий стол\Exz_PM1\src\Ekz\Ekz\obj\Debug\net6.0-windows\Ekz.csproj.AssemblyReference.cache
+C:\Users\notal\OneDrive\Рабочий стол\Exz_PM1\src\Ekz\Ekz\obj\Debug\net6.0-windows\Ekz.Form1.resources
+C:\Users\notal\OneDrive\Рабочий стол\Exz_PM1\src\Ekz\Ekz\obj\Debug\net6.0-windows\Ekz.csproj.GenerateResource.cache
+C:\Users\notal\OneDrive\Рабочий стол\Exz_PM1\src\Ekz\Ekz\obj\Debug\net6.0-windows\Ekz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\notal\OneDrive\Рабочий стол\Exz_PM1\src\Ekz\Ekz\obj\Debug\net6.0-windows\Ekz.AssemblyInfoInputs.cache
+C:\Users\notal\OneDrive\Рабочий стол\Exz_PM1\src\Ekz\Ekz\obj\Debug\net6.0-windows\Ekz.AssemblyInfo.cs
+C:\Users\notal\OneDrive\Рабочий стол\Exz_PM1\src\Ekz\Ekz\obj\Debug\net6.0-windows\Ekz.csproj.CoreCompileInputs.cache
+C:\Users\notal\OneDrive\Рабочий стол\Exz_PM1\src\Ekz\Ekz\obj\Debug\net6.0-windows\Ekz.dll
+C:\Users\notal\OneDrive\Рабочий стол\Exz_PM1\src\Ekz\Ekz\obj\Debug\net6.0-windows\refint\Ekz.dll
+C:\Users\notal\OneDrive\Рабочий стол\Exz_PM1\src\Ekz\Ekz\obj\Debug\net6.0-windows\Ekz.pdb
+C:\Users\notal\OneDrive\Рабочий стол\Exz_PM1\src\Ekz\Ekz\obj\Debug\net6.0-windows\Ekz.genruntimeconfig.cache
+C:\Users\notal\OneDrive\Рабочий стол\Exz_PM1\src\Ekz\Ekz\obj\Debug\net6.0-windows\ref\Ekz.dll

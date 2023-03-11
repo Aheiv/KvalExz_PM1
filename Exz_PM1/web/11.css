@@ -1,0 +1,30 @@
+
+body {
+    background-image: url(fon1.GIF);
+    background-repeat: no-repeat;
+    background-size:cover;
+    -webkit-background-size: 100%;
+font-size: 24px;
+    font-family: 'Monotype Corsiva', sans-serif;
+}
+
+#text {
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+}
+
+body p {
+    margin-left: 35%;
+    margin-top: 5%;
+    width: 400px;
+    font-size: 24px;
+    padding: 2%;
+    border: 3px solid blue;
+    background-color: rgb(204, 204, 255);
+}
+
+#image {
+    float: left;
+    margin-bottom: 3%;
+}
